@@ -7,6 +7,16 @@ This dataset has around 49,000 observations in it with 16 columns and includes a
 This public dataset is part of Airbnb, and the original source can be found on http://insideairbnb.com/.
 
 # Objective
-**Apply descriptive analytics to find out the differences between high-performance listings and worst-performance listings**
+1. **Apply descriptive analytics to find out the differences between high-performance listings and worst-performance listings**
+2. **Discover ways to attract more customers for rental property through case study research**
 
-**Discover ways to attract more customers for rental property through case study research**
+# Conclusion
+1. Price & Room
+    - The lower price, the higher reviews
+    - Private room for Couple is the best choice for hostings
+2. Amenities
+    - Listings with essential amenities have more reviews than listings with High-class amenities
+    - 20 is the best number of amenities
+3. Convenience
+    - High-performing listings are near subway stations and within walking distance of food stores & shopping malls
+    - People prefer more free offers (Free Wifi, Free Parking)
